@@ -5,7 +5,7 @@ PhysicsManager:
   m_ObjectHideFlags: 0
   serializedVersion: 10
   m_Gravity: {x: 0, y: -9.81, z: 0}
-  m_DefaultMaterial: {fileID: 13400000, guid: 2c7a695603273a5429fc8dcc90ba8330, type: 2}
+  m_DefaultMaterial: {fileID: 13400000, guid: d18e13e1b02d9874b8f1f1d1bc1527b8, type: 2}
   m_BounceThreshold: 2
   m_SleepThreshold: 0.005
   m_DefaultContactOffset: 0.01

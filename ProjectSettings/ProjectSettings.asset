@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 18
-  productGUID: 2e08fda1a6ba0964082de200f4db1610
+  productGUID: 72941196aa9d7ad4cafea38500bd92b3
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -622,10 +622,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 4ed9eddb-e6b3-45c9-8481-c94031e9365e
+  cloudProjectId: 
   framebufferDepthMemorylessMode: 0
-  projectName: PongGame
-  organizationId: davicorreia21
+  projectName: 
+  organizationId: 
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
